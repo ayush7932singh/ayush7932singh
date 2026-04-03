@@ -39,7 +39,7 @@ Hands-on experience with Salesforce CRM during internship, working on automation
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush7932singh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayush7932singh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Hands-on experience with Salesforce CRM during internship, working on automation
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush7932singh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayush7932singh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
